@@ -1,0 +1,14 @@
+layout_spectrum: 0.43519261945039034
+typography_spectrum: 0.5486277949530631
+color:
+  brandStrength: 0.6392017719335854
+  lightness: 0.7587888427078724
+  saturation: 0.8675368931144476
+  rhythmicContrast: 0.6519215060397983
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: massive boxcar
